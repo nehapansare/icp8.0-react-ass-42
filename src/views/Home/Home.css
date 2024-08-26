@@ -1,0 +1,36 @@
+.cart-container {
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-around; 
+  gap: 20px; 
+  flex-wrap: wrap; 
+  padding: 20px;
+  
+}
+.banner {
+  width: 200vh;
+  display: block;
+  margin: 20px auto;
+  height: 410px;
+}
+.deals-title{
+ display: flex;
+ justify-content: center;
+}
+.offer{
+  display: flex;
+  justify-content: space-around;
+}
+.btn-offer{
+  padding: 10px 10px;
+  width: 100%;
+  margin: 20px 20px;
+  background-color: #1E2A5E;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+.btn-offer:hover{
+  background-color: #3f5490;
+}
