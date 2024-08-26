@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #1E2A5E;
+    color: antiquewhite;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+.navbar-link{
+    color: white;
+    margin: 0 20px;
+
+}
+.brand-Name{
+    font-size: 30px;
+    font-weight:bold ;
+    font-style: italic;
+    margin-right: 100px;
+}
